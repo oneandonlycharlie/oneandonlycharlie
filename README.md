@@ -1,3 +1,5 @@
+README.md
+
 # 👋 Hey, I'm Charlie Gu
 
 🎓 Master's student in **Data Science & Society** @ Tilburg University  
