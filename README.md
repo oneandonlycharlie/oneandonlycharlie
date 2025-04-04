@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -16,19 +16,15 @@
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 - 📸 [Instagram Clone](https://github.com/oneandonlycharlie/Instagram-clone): Full-stack social webapp with image upload, follow system, likes & comments.
 - 🧑‍🍳 [Kitchen Inventory](https://github.com/oneandonlycharlie/Kitchen_inventory): Recipe app with ingredient tagging, smart filters and user uploads.
 
 ---
 
-## ✨ Fun Facts
+### ✨ Hobbies
 
-- 🗣 Trilingual: English, Mandarin, Cantonese  
+- 🗣 Language learning: Professional proficiency in English, Mandarin and adding Dutch to my skillset  
 - 🎸 Music lover, indie film fan, farm-to-table food explorer  
-- 📫 Contact me: guquan7523@outlook.com
 
----
-
-> "Build products that matter. Tell stories that connect. Learn endlessly."
