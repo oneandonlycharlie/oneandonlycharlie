@@ -1,4 +1,4 @@
-# 👋 Hoi, Ik ben Charlie Gu
+# 👋 Hoi, Ik ben Charlie.
 
 🎓 Data Science Master's Student @ Tilburg University  
 💼 Ex-Product Owner @ TikTok | Full-Stack Dev | Product + Tech Enthusiast  
