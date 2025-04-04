@@ -1,42 +1,34 @@
+# 👋 Hi, I'm Charlie Gu
 
+🎓 Data Science Master's Student @ Tilburg University  
+💼 Ex-Product Owner @ TikTok | Full-Stack Dev | Product + Tech Enthusiast  
 
-# 👋 Hey, I'm Charlie Gu
+---
 
-🎓 Master's student in **Data Science & Society** @ Tilburg University  
-💼 Former **Product Owner at TikTok**, led the redesign of the global careers website (2M+ monthly visits)  
-🛠️ Full-stack developer | UX thinker | Communication ninja
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
 
 ## 🚀 Projects
 
-- 📸 [**Instagram Webapp Clone**](https://github.com/oneandonlycharlie/Instagram-clone)  
-  Full-stack app using React, Node.js, Express, PostgreSQL, with user authentication & responsive UI.
-
-- 🍳 [**Recipe Sharing Website**](https://github.com/oneandonlycharlie/Kitchen_inventory)  
-  A restaurant-style SPA with image upload, dynamic sorting, and a clean interface.
+- 📸 [Instagram Clone](https://github.com/oneandonlycharlie/Instagram-clone): Full-stack social webapp with image upload, follow system, likes & comments.
+- 🧑‍🍳 [Kitchen Inventory](https://github.com/oneandonlycharlie/Kitchen_inventory): Recipe app with ingredient tagging, smart filters and user uploads.
 
 ---
 
-## 💻 Tech Stack
+## ✨ Fun Facts
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🗣 Trilingual: English, Mandarin, Cantonese  
+- 🎸 Music lover, indie film fan, farm-to-table food explorer  
+- 📫 Contact me: guquan7523@outlook.com
 
 ---
 
-
-## 🌱 About Me
-
-- 🌍 From China, now based in the Netherlands and I welcome any internship opprtuntuties, on-site, remote or hybrid.
-- 🗣 Trilingual: English | Cantonese | Mandarin  
-- 🎸 Into rock bands, indie movies, gardening, and farm-to-table cooking  
-- 💌 Reach me: [guquan7523@outlook.com](mailto:guquan7523@outlook.com)
-
----
-
-_“Code like a poet, design like an artist, lead like a storyteller.”_
+> "Build products that matter. Tell stories that connect. Learn endlessly."
