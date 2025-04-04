@@ -27,15 +27,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=oneandonlycharlie&show_icons=true&theme=tokyonight)
-
----
 
 ## 🌱 About Me
 
-- 🌍 From China, now based in the Netherlands  
+- 🌍 From China, now based in the Netherlands and I welcome any internship opprtuntuties, on-site, remote or hybrid.
 - 🗣 Trilingual: English | Cantonese | Mandarin  
 - 🎸 Into rock bands, indie movies, gardening, and farm-to-table cooking  
 - 💌 Reach me: [guquan7523@outlook.com](mailto:guquan7523@outlook.com)
