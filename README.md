@@ -18,7 +18,7 @@
 
 ### 🚀 Projects
 
-- 📸 [Instagram Clone](https://github.com/oneandonlycharlie/Instagram-clone): Full-stack social webapp with image upload, follow system, likes & comments.
+- 📸 [Instagram Clone](https://github.com/oneandonlycharlie/Instagram-clone): Full-stack replicate of a social webapp with user verification, edits, likes & comments.
 - 🧑‍🍳 [Kitchen Inventory](https://github.com/oneandonlycharlie/Kitchen_inventory): Recipe app with ingredient tagging, smart filters and user uploads.
 
 ---
