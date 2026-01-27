@@ -1,6 +1,8 @@
 # 👋 Hoi, Ik ben Charlie.
 
-Data Science Master's Student @ Tilburg University  Blending Software Engineering, Data Pipeline Design, and Product Strategy.
+Data Science Master's Student @ Tilburg University.
+
+Blending Software Engineering, Data Pipeline Design, and Product Strategy.
 
 ---
 
