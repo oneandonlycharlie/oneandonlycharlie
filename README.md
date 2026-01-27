@@ -1,30 +1,40 @@
 # 👋 Hoi, Ik ben Charlie.
 
-🎓 Data Science Master's Student @ Tilburg University  
-💼 Ex-Product Owner @ TikTok | Full-Stack Dev | Product + Tech Enthusiast  
+Data Science Master's Student @ Tilburg University  Blending Software Engineering, Data Pipeline Design, and Product Strategy.
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+#### 🎓 Education: 
+
+Pursuing an M.Sc. in Data Science and Society at Tilburg University.
+
+#### 💻 Work Experiences:
+
+Software Engineer Intern @ [H5mag](https://www.h5mag.com/) (The Hague, NL): Developing reusable UI components and automating web data scraping.
+
+Former Product Owner @ TikTok (Shanghai, China): Led the revamp of the [TikTok Careers site](https://lifeattiktok.com/) (2M+ monthly traffic), managing full-cycle product delivery from architecture to launch.
+
+🛠️ Tech Stack:
+* Languages: Python, SQL, Java, JavaScript
+
+* Frameworks: Spring Boot, React, Node.js
+
+* Data/DevOps: Azure, Airflow, Docker, Git
+
+#### 📂 Featured Projects
+* 📈 [Gold Price ELT Pipeline](https://github.com/oneandonlycharlie/ELT-pipeline-gold-prices): An automated data engine built with Azure and Airflow, featuring incremental updates and financial indicator processing.
+
+* 🎬 [Cinema Management System](https://github.com/oneandonlycharlie/cinema-management-system): A backend-focused booking system using Spring Boot and PostgreSQL, implementing JWT authentication and JPA/Hibernate.
+
+* 📸 [Instagram Clone](https://github.com/oneandonlycharlie/Instagram-clone): A full-stack SPA built with React, Express.js, and Passport.js for secure user verification.
 
 ---
+#### ✨ What do I do when I am not coding
 
-### 🚀 Projects
+* 🥘 Cooking - ask me for my pasta reciepe
+* 🎸 Forever Rock & Roll - I enjoy good shows and good bands! Espesically the hidden gems.
+* 🗣️ Currently leveling up my Dutch! 🇳🇱
 
-- 📸 [Instagram Clone](https://github.com/oneandonlycharlie/Instagram-clone): Full-stack replicate of a social webapp with user verification, edits, likes & comments.
-- 🧑‍🍳 [Kitchen Inventory](https://github.com/oneandonlycharlie/Kitchen_inventory): Recipe app with ingredient tagging, smart filters and user uploads.
-
----
-
-### ✨ Hobbies
-
-- 🗣 Language learning: Professional proficiency in English, Mandarin and adding Dutch to my skillset  
-- 🎸 Music lover, indie film fan, farm-to-table food explorer  
 
