@@ -20,7 +20,7 @@ Former Product Owner @ TikTok (Shanghai, China): Led the revamp of the [TikTok C
 
 
 #### 📂 Featured Projects
-* 📈 [Gold Price ELT Pipeline](https://github.com/oneandonlycharlie/ns-train-data-pipeline/tree/main): A data pipeline using public NS dataset, I am passionate about the trains and experimenting what I can find about my travel experiences!
+* 📈 [NS Train Data Pipeline](https://github.com/oneandonlycharlie/ns-train-data-pipeline/tree/main): A data pipeline using public NS dataset, I am passionate about the trains and experimenting what I can find about my travel experiences!
 
 * 🎬 [Cinema Management System](https://github.com/oneandonlycharlie/cinema-management-system): A backend-focused booking system using Spring Boot and PostgreSQL, implementing JWT authentication and JPA/Hibernate.
 
